@@ -27,4 +27,9 @@ It also generates scatter plot of different algrothims along with different perf
 
 ![Image description](https://github.com/nanobot23/breast-cancer-detection/blob/master/Images/img3.png)
 
+## Data Set Coutesy 
 
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+
+
+For further details drop an email to : karandanainwal@gmail.com
