@@ -1,0 +1,14 @@
+Name:Ritu Grover
+Age:45
+Clump Thickness: 8
+Uniformity of Cell Size: 10
+Uniformity of Cell Shape: 8
+Marginal Adhesion: 10
+Single Epithelial Cell Size: 10
+Bare Nuclei: 9
+Bland Chromatin: 7
+Normal Nucleoli: 2
+Mitoses: 10
+Result: Malignant 
+Result Positive
+Diagnosed By: Dr. Rakesh Mehta

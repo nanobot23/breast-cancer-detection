@@ -1,0 +1,14 @@
+Name:Kajal
+Age:45
+Clump Thickness: 10
+Uniformity of Cell Size: 9
+Uniformity of Cell Shape: 2
+Marginal Adhesion: 8
+Single Epithelial Cell Size: 9
+Bare Nuclei: 10
+Bland Chromatin: 1
+Normal Nucleoli: 2
+Mitoses: 10
+Result: Malignant 
+Result Positive
+Diagnosed By: Dr. Rakesh Kumar

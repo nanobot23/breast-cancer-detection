@@ -1,0 +1,14 @@
+Name:bobby
+Age:25
+Clump Thickness: 10
+Uniformity of Cell Size: 7
+Uniformity of Cell Shape: 10
+Marginal Adhesion: 10
+Single Epithelial Cell Size: 2
+Bare Nuclei: 2
+Bland Chromatin: 2
+Normal Nucleoli: 5
+Mitoses: 8
+Result: Malignant 
+Result Positive
+Diagnosed By: Dr. Rakesh Mehta

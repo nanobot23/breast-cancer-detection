@@ -1,0 +1,14 @@
+Name:sbhhs
+Age:45
+Clump Thickness: 1
+Uniformity of Cell Size: 8
+Uniformity of Cell Shape: 5
+Marginal Adhesion: 7
+Single Epithelial Cell Size: 8
+Bare Nuclei: 9
+Bland Chromatin: 0
+Normal Nucleoli: 7
+Mitoses: 8
+Result: Malignant 
+Result Positive
+Diagnosed By: Dr. pooja

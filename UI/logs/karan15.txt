@@ -1,0 +1,14 @@
+Name:karan
+Age:15
+Clump Thickness: 8
+Uniformity of Cell Size: 8
+Uniformity of Cell Shape: 8
+Marginal Adhesion: 8
+Single Epithelial Cell Size: 8
+Bare Nuclei: 8
+Bland Chromatin: 8
+Normal Nucleoli: 8
+Mitoses: 8
+Result: Malignant 
+Result Positive
+Diagnosed By: Dr. Dr.Rakesh 

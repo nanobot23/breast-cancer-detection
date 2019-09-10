@@ -1,0 +1,14 @@
+Name:pooja
+Age:25
+Clump Thickness: 10
+Uniformity of Cell Size: 10
+Uniformity of Cell Shape: 7
+Marginal Adhesion: 8
+Single Epithelial Cell Size: 5
+Bare Nuclei: 5
+Bland Chromatin: 7
+Normal Nucleoli: 5
+Mitoses: 10
+Result: Malignant 
+Result Positive
+Diagnosed By: Dr. rakesh kumar

@@ -1,0 +1,14 @@
+Name:fcdc
+Age:20
+Clump Thickness: 8
+Uniformity of Cell Size: 7
+Uniformity of Cell Shape: 10
+Marginal Adhesion: 8
+Single Epithelial Cell Size: 10
+Bare Nuclei: 10
+Bland Chromatin: 1
+Normal Nucleoli: 2
+Mitoses: 9
+Result: Malignant 
+Result Positive
+Diagnosed By: Dr. 

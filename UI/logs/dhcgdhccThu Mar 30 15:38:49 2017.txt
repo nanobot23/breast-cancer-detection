@@ -1,0 +1,145 @@
+---------Diagnosed By :Dr.dhcgdhcc On Thu Mar 30 15:38:49 2017----------------
+
+Id:1
+Clump Thickness: 5.0
+Uniformity of Cell Size: 1.0
+Uniformity of Cell Shape: 1.0
+Marginal Adhesion: 1.0
+Single Epithelial Cell Size: 2.0
+Bare Nuclei: 1.0
+Bland Chromatin: 3.0
+Normal Nucleoli: 1.0
+Mitoses: 1.0
+Result: Benign
+
+Id:2
+Clump Thickness: 5.0
+Uniformity of Cell Size: 4.0
+Uniformity of Cell Shape: 4.0
+Marginal Adhesion: 5.0
+Single Epithelial Cell Size: 7.0
+Bare Nuclei: 10.0
+Bland Chromatin: 3.0
+Normal Nucleoli: 2.0
+Mitoses: 1.0
+Result: Malignant
+
+Id:3
+Clump Thickness: 3.0
+Uniformity of Cell Size: 1.0
+Uniformity of Cell Shape: 1.0
+Marginal Adhesion: 1.0
+Single Epithelial Cell Size: 2.0
+Bare Nuclei: 2.0
+Bland Chromatin: 3.0
+Normal Nucleoli: 1.0
+Mitoses: 1.0
+Result: Benign
+
+Id:4
+Clump Thickness: 6.0
+Uniformity of Cell Size: 8.0
+Uniformity of Cell Shape: 8.0
+Marginal Adhesion: 1.0
+Single Epithelial Cell Size: 3.0
+Bare Nuclei: 4.0
+Bland Chromatin: 3.0
+Normal Nucleoli: 7.0
+Mitoses: 1.0
+Result: Malignant
+
+Id:5
+Clump Thickness: 4.0
+Uniformity of Cell Size: 1.0
+Uniformity of Cell Shape: 1.0
+Marginal Adhesion: 3.0
+Single Epithelial Cell Size: 2.0
+Bare Nuclei: 1.0
+Bland Chromatin: 3.0
+Normal Nucleoli: 1.0
+Mitoses: 1.0
+Result: Benign
+
+Id:6
+Clump Thickness: 8.0
+Uniformity of Cell Size: 10.0
+Uniformity of Cell Shape: 10.0
+Marginal Adhesion: 8.0
+Single Epithelial Cell Size: 7.0
+Bare Nuclei: 10.0
+Bland Chromatin: 9.0
+Normal Nucleoli: 7.0
+Mitoses: 1.0
+Result: Malignant
+
+Id:7
+Clump Thickness: 1.0
+Uniformity of Cell Size: 1.0
+Uniformity of Cell Shape: 1.0
+Marginal Adhesion: 1.0
+Single Epithelial Cell Size: 2.0
+Bare Nuclei: 10.0
+Bland Chromatin: 3.0
+Normal Nucleoli: 1.0
+Mitoses: 1.0
+Result: Benign
+
+Id:8
+Clump Thickness: 2.0
+Uniformity of Cell Size: 1.0
+Uniformity of Cell Shape: 2.0
+Marginal Adhesion: 1.0
+Single Epithelial Cell Size: 2.0
+Bare Nuclei: 1.0
+Bland Chromatin: 3.0
+Normal Nucleoli: 1.0
+Mitoses: 1.0
+Result: Benign
+
+Id:9
+Clump Thickness: 2.0
+Uniformity of Cell Size: 1.0
+Uniformity of Cell Shape: 1.0
+Marginal Adhesion: 1.0
+Single Epithelial Cell Size: 2.0
+Bare Nuclei: 1.0
+Bland Chromatin: 1.0
+Normal Nucleoli: 1.0
+Mitoses: 5.0
+Result: Benign
+
+Id:10
+Clump Thickness: 4.0
+Uniformity of Cell Size: 2.0
+Uniformity of Cell Shape: 1.0
+Marginal Adhesion: 1.0
+Single Epithelial Cell Size: 2.0
+Bare Nuclei: 1.0
+Bland Chromatin: 2.0
+Normal Nucleoli: 1.0
+Mitoses: 1.0
+Result: Benign
+
+Id:11
+Clump Thickness: 1.0
+Uniformity of Cell Size: 1.0
+Uniformity of Cell Shape: 1.0
+Marginal Adhesion: 1.0
+Single Epithelial Cell Size: 1.0
+Bare Nuclei: 1.0
+Bland Chromatin: 3.0
+Normal Nucleoli: 1.0
+Mitoses: 1.0
+Result: Benign
+
+Id:12
+Clump Thickness: 2.0
+Uniformity of Cell Size: 1.0
+Uniformity of Cell Shape: 1.0
+Marginal Adhesion: 1.0
+Single Epithelial Cell Size: 2.0
+Bare Nuclei: 1.0
+Bland Chromatin: 2.0
+Normal Nucleoli: 1.0
+Mitoses: 1.0
+Result: Benign

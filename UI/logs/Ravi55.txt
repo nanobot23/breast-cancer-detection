@@ -1,0 +1,14 @@
+Name:Ravi
+Age:55
+Clump Thickness: 8
+Uniformity of Cell Size: 10
+Uniformity of Cell Shape: 10
+Marginal Adhesion: 8
+Single Epithelial Cell Size: 7
+Bare Nuclei: 10
+Bland Chromatin: 9
+Normal Nucleoli: 7
+Mitoses: 1
+Result: Malignant 
+Result Positive
+Diagnosed By: Dr. Rakesh Kumar

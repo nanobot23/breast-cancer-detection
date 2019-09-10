@@ -1,0 +1,14 @@
+Name:hdndk
+Age:25
+Clump Thickness: 10
+Uniformity of Cell Size: 3
+Uniformity of Cell Shape: 7
+Marginal Adhesion: 10
+Single Epithelial Cell Size: 10
+Bare Nuclei: 7
+Bland Chromatin: 6
+Normal Nucleoli: 9
+Mitoses: 1
+Result: Malignant 
+Result Positive
+Diagnosed By: Dr. dhcgdhcc
