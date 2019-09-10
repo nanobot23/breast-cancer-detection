@@ -22,3 +22,5 @@ It also generates scatter plot of different algrothims along with different perf
 ## UI Images
 
 ![Image description](https://github.com/nanobot23/breast-cancer-detection/blob/master/Images/img1.png)
+![Image description](https://github.com/nanobot23/breast-cancer-detection/blob/master/Images/img2.png)
+![Image description](https://github.com/nanobot23/breast-cancer-detection/blob/master/Images/img3.png)
