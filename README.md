@@ -17,3 +17,8 @@ In this mode the radiologist can diagnose  patients , by entering the data extra
 All the comparision of algorithms and parameter tuning is done here, All three algorithms can be tested here on the basis of there parameters and optimization can be done here . It also compares all the three algorithms and decides and genereates several graphs , 
 It provides a friendly interface to the developer instead of changing the source code everytime,
 It also generates scatter plot of different algrothims along with different performance measures like accuracy, recall and confusion matrix of the given test dataset.  The developer mode also allows to slect the data and cross validation percentage of the dataset used.
+
+
+## UI Images
+
+![Image description](https://github.com/nanobot23/breast-cancer-detection/blob/master/Images/img1.png)
